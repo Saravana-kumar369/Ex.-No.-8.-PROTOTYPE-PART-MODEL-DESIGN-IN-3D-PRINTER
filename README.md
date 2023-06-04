@@ -47,8 +47,35 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### LOAD STL FILE
+import the stl file of the 3d model into cura software.
+
+![Screenshot (191)](https://github.com/Saravana-kumar369/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117925254/f991d234-ab1d-49be-9c26-f3a097ab14d1)
+
+### ORIENTATION
+ Proper orientation of object may reduce the use of support material thereby reduces the use of cost and time spend during printing process.Placing part of model with more surface area lie on print bed reduces the use of support material.
+ 
+ ![Screenshot (192)](https://github.com/Saravana-kumar369/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117925254/2137d4aa-8aa8-4da2-af2c-97777034ad58)
+
+### SCALING
+scaling is helpful in increasing and reducing the product size along x,y,z axes.
+
+![Screenshot (193)](https://github.com/Saravana-kumar369/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117925254/34836dee-f016-48cc-9994-5dfb6ef4582c)
+
+### MOVE
+move option is used change the print position of the product to be printed on the print bed.
+
+![Screenshot (194)](https://github.com/Saravana-kumar369/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117925254/164dc9a7-3186-42c2-9cc0-3c336fdbbb24)
+
+### SLICING AND PREVEIWING THE MODEL
+
+![Screenshot (195)](https://github.com/Saravana-kumar369/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117925254/407cb69c-2516-4ed8-8d4c-79ccd6a4c2b0)
+
+
+
+
+### Name:SARAVANA KUMAR
+### Register Number:212222230133
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
